@@ -2,9 +2,10 @@
 
 ###Highly recommended
 
+**Note**: I'll add the app scripts that we wrote during the course, but I cannot guarantee that it's working code, as we constantly revisited and updated the code, and I just removed existing, no-longer-active code as we went. Virtually all of the code in the course is reproduced here in the notes.
 
-The course is peppered with *conceptual asides* that add context to the course instruction.
-Conceptual Aside - an idea we need to understand in order to better understand NodeJS
+**Also Note**: The course is peppered with *conceptual asides* that add context to the course instruction, expounding on ideas we need to understand well in order to better understand NodeJS.
+
 
 #### The Command Line Interface (CLI)
 A utility to type commands to your computer rather than clicking
